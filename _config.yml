@@ -1,28 +1,22 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Qiusi Yan
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  Qiusi Yan's homepage
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: I am an PhD candidate of Law in Peking University and an incoming PhD student of Management.<a href="https://sm.ms/image/Lz14MrYjbhnUyKs" target="_blank"><img src="https://s2.loli.net/2024/06/29/Lz14MrYjbhnUyKs.png" ></a>
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
-  - platform: linkedin
-    url: brianmaierjr
+  - platform: CV
+    url: https://drive.google.com/file/d/1lHIhehmCmhSzimlN-8LV_96c7bfBOKsL/view
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
-sharing_image: share.jpg
+sharing_image: qiusiyan.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
